@@ -36,8 +36,8 @@ jobs:
         zip -r ../deployment-package.zip .
         cd ..
         zip -g deployment-package.zip lambda_function.py
-        echo "✅ Package created: deployment-package.zip"
-        ls -lh deployment-package.zip
+        echo "✅ Package created"
+        ls -lh *.zip
   
   deploy:
     needs: test
