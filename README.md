@@ -5,6 +5,8 @@
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![AWS](https://img.shields.io/badge/AWS-Lambda-orange)
 
+**CI/CD Status:** ✅ Automated testing and deployment pipeline
+
 ## Project Overview
 Serverless ETL (Extract, Transform, Load) pipeline that automatically processes CSV files uploaded to Amazon S3. Built with AWS Lambda, S3, and CloudWatch for comprehensive monitoring and logging.
 
