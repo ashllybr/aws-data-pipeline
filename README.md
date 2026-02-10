@@ -1,6 +1,19 @@
-# 🏥 COVID-19 Data Processing Pipeline
+# 👉 Serverless Data Pipeline on AWS (Lambda + S3) — COVID-19 Analytics Platform
 
 **Real-world serverless ETL pipeline processing global COVID-19 data for trend analysis and monitoring.**
+
+## 🎯 Skills Demonstrated
+
+| Category | Technologies | 
+|----------|-------------|
+| **Cloud Architecture** | AWS Lambda, S3, CloudWatch, SNS, IAM |
+| **Serverless Computing** | Event-driven design, Auto-scaling, Pay-per-use |
+| **Data Engineering** | ETL pipelines, Pandas processing, Data quality scoring |
+| **DevOps & Automation** | GitHub Actions CI/CD, Infrastructure as Code, Automated testing |
+| **Monitoring & Observability** | CloudWatch logs, Metrics, SNS alerts, Error tracking |
+| **Cost Optimization** | AWS pricing analysis, ROI calculation, Resource optimization |
+| **Business Value** | Cost-benefit analysis, ROI documentation, Stakeholder communication |
+
 
 ![AWS Architecture](docs/architecture.png)
 ![CI/CD Status](https://github.com/ashllybr/aws-data-pipeline/workflows/CI/CD%20Pipeline/badge.svg)
@@ -289,7 +302,7 @@ MIT License - Feel free to use for learning
 
 ## 👤 Author
 
-**Alex Serenje**  
+**Alex Brian**  
 Cloud & DevOps Engineer
 
 📧 ashllybr01@gmail.com  
